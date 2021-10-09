@@ -1,0 +1,23 @@
+body {
+    background-color: bisque;
+}
+
+hr {
+    width: 5%;
+    border: 5px dotted;
+    border-style: none none dotted;
+    color: rgb(104, 101, 101);
+}
+
+h1 {
+    color: #0a0a0a;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3 {
+    color: #0a0a0a;
+}
+
+#mikey {
+    background-color: rgb(255, 165, 0);
+}
